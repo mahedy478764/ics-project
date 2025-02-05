@@ -125,13 +125,74 @@ span{
     font-weight: bold;
     color: #ffffff;
 }
-.fu-1st-div{
-    display: flex;
-    margin: 130px 230px;
-    gap: 331px;
-    width: 50%;
+footer{
     background-color: #151414;
+    border-radius: 10px;
+}
+.fu-1st-div{
+    padding-right: 230px; */
+    padding-left: 230px;
+    padding: 130px 220px;
+    display: flex;
+    
+    
+    /* gap: 331px; */
+    width: 50%;
+    /* background-color: #151414; */
+    background-size: cover;
+    justify-content: space-between;
 }
 .button{
     border: none;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 600px;
+    background-color: #151414;
+}
+.fu-h3{
+    font-size: 45px;
+    font-weight: bold;
+    color: #F8F8F8;
+}
+.fu-p1{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #FFFFFF;
+
+}
+.fu-p2{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #ffffff;
+}
+.fu-p3{
+    font-size:16px ;
+    font-weight: 400px;
+    color: #FFFFFF;
+}
+.src{
+    margin-right: 24px;
+}
+.fu-form{
+
+    padding-top: 60px;
+    padding-right: 20px;
+}
+.email{
+    font-size:16px ;
+    font-weight: 400px;
+    color: #F8F8F8;
+    padding: 21px 158px 21px 21px;
+    background-color: #151414;
+    border-radius: 7px;
+    /* border: none; */
+}
+.submit{
+    font-size: 20px;
+    font-weight: 600px;
+    color: #F15B22;
+    background-color:#FFFFFF ;
+    padding: 20px 36px;
+    border: none;
+    border-radius: 7px;
 }
