@@ -1,0 +1,137 @@
+
+body{
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+header{ 
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+    /* height: 808px; */
+    /* width: 1800px; */
+    opacity: 100%;
+    background-size: cover;
+}
+.box-hed{
+   padding-top: 204px;
+   padding-right: 220px;
+   text-align: right;
+   padding-left: 1055px;
+   padding-bottom: 178px;
+}
+.h-3{
+    font-size: 65px;
+    font-weight: bold;
+    color: #151414;
+    padding: ;
+}
+.perag{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #444343;
+}
+.bty-ply{
+    padding: 20px 25px;
+    font-size: 20px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+    background-color: #F15B22;
+   
+}
+nav{
+    margin: 130px 322px 130px 220px;
+}
+.img{
+    height: 723px;
+    width: 569px;
+}
+.section-1{
+    display: flex;
+    align-items: center;
+    gap: 87px;
+    
+}
+.section-1-h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: #151414;
+}
+.p{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #444343;
+}
+.section-1-ul{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #444343;
+}
+.DIV{
+    padding-right: 120px;
+}
+.content-box{
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    
+}
+span{
+    color: #16D887;
+}
+.section-2{
+    margin-top: 130px;
+}
+.section-2-h3{
+    font-size:40px ;
+    font-weight:bold ;
+    color:#151414 ;
+    text-align: center;
+}
+.pic{
+    height: 93px;
+    width: 93px;
+    align-items: center;
+}
+.section-h4{
+    font-size: 30px ;
+    font-weight: bold;
+    color:#151414 ;
+
+}
+.section-h5{
+    font-size: 25px;
+    font-weight: 500px ;
+    color: #737272;
+
+}
+.section-img{
+    margin: 0px;
+}
+.bag-pic{
+    margin-top: 130px;
+    background-image: url('../images/gradient2.png');
+    background-image: url('../images/watch.png');
+    padding: 60px 617px 60px 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.section-3-h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.fu-1st-div{
+    display: flex;
+    margin: 130px 230px;
+    gap: 331px;
+    width: 50%;
+    background-color: #151414;
+}
+.button{
+    border: none;
+}
